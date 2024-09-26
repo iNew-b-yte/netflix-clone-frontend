@@ -1,0 +1,25 @@
+{
+    "atDirectives": [
+      {
+        "name": "@tailwind",
+        "description": "Tailwind CSS directive to include base, components, and utilities",
+        "references": [
+          {
+            "name": "Tailwind Documentation",
+            "url": "https://tailwindcss.com/docs/functions-and-directives"
+          }
+        ]
+      },
+      {
+        "name": "@apply",
+        "description": "Tailwind CSS directive to apply utility classes in CSS",
+        "references": [
+          {
+            "name": "Tailwind Documentation",
+            "url": "https://tailwindcss.com/docs/functions-and-directives"
+          }
+        ]
+      }
+    ]
+  }
+  
